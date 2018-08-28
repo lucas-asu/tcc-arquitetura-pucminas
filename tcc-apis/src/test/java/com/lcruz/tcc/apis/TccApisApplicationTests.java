@@ -1,4 +1,4 @@
-package com.lcruz.tcc;
+package com.lcruz.tcc.apis;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TccApplicationTests {
+public class TccApisApplicationTests {
 
 	@Test
 	public void contextLoads() {
