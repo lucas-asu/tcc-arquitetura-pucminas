@@ -1,0 +1,4 @@
+#Mon Aug 27 23:07:07 BRT 2018
+base.0=C\:\\projs\\tcc-arquitetura-pucminas\\tcc-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
