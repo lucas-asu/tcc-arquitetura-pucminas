@@ -6,27 +6,27 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_menu_home"
             android:title="Início" />
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/nav_entregas"
+            android:icon="@drawable/ic_menu_delivery"
             android:title="Entregas" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/nav_coletas"
+            android:icon="@drawable/ic_menu_coleta"
             android:title="Coletas" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_menu_shipping"
             android:title="Frete" />
         <item
             android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_driver"
             android:title="Motoristas" />
         <item
             android:id="@+id/nav_relatorios"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_reports"
             android:title="Relatórios" />
     </group>
 
@@ -34,26 +34,26 @@
         <menu>
             <item
                 android:id="@+id/nav_perfil"
-                android:icon="@drawable/ic_menu_share"
+                android:icon="@drawable/ic_menu_user_profile"
                 android:title="Meu Perfil" />
             <item
                 android:id="@+id/nav_logoff"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Sair da Conta" />
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Sair" />
         </menu>
     </item>
 
-    <item android:title="Administrador">
+   <!-- <item android:title="Administrador">
         <menu>
             <item
                 android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
+                android:icon="@drawable/ic_menu_home"
                 android:title="Adicionar Usuario" />
             <item
                 android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
+                android:icon="@drawable/ic_menu_home"
                 android:title="Permissões" />
         </menu>
-    </item>
+    </item>-->
 
 </menu>

@@ -6,7 +6,7 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
 import br.com.lcruz.tcc.app.R;
-import br.com.lcruz.tcc.app.login.LoginActivity;
+import br.com.lcruz.tcc.app.login.activity.LoginActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
